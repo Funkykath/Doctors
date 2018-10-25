@@ -3,6 +3,7 @@
 <br/>
 <h2>Semaine 4 - Jeudi 25 octobre : Rails</h2>
 
+
 <body>
 
 <h1>Introduction</h1>
@@ -15,6 +16,8 @@
  <li>Installez nos gems: <code>bundle install</code></li>
 
 </ol>
+
+<p> Pair-programming : @funkykath: Kathleen Elie </p>
 
 <h2>Rails</h2>
 
